@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://negen911.github.io/bangkit-nama-interior/sitemap.xml
+Sitemap: https://negen911.github.io/bangkit-nata-interior/sitemap.xml

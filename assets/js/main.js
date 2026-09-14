@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", function () {
-  console.log("Bangkit Nama Interior website loaded.");
+  console.log("Bangkit Nata Interior website loaded.");
 });
